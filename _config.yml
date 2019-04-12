@@ -8,7 +8,7 @@ description: "Hey，我是Fe，一只JAVA程序猿,这是我的利用 GitHub Pag
 url: "https://maomaochen.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "blog" # you code repository
-author: Fe
+author: maomaochen
 
 # 是否托管在Coding_Pages
 Coding_Pages: true
