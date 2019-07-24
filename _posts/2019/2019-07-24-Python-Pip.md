@@ -15,17 +15,17 @@ python用pip安装库时，会从python官方源下载，有时速度很慢，�
 
 ## 国内源
 
-清华：https://pypi.tuna.tsinghua.edu.cn/simple
+清华：[https://pypi.tuna.tsinghua.edu.cn/simple](https://pypi.tuna.tsinghua.edu.cn/simple)
 
-阿里云：http://mirrors.aliyun.com/pypi/simple/
+阿里云：[http://mirrors.aliyun.com/pypi/simple/](http://mirrors.aliyun.com/pypi/simple/)
 
-中国科技大学：https://pypi.mirrors.ustc.edu.cn/simple/
+中国科技大学：[https://pypi.mirrors.ustc.edu.cn/simple/](https://pypi.mirrors.ustc.edu.cn/simple/)
 
-华中理工大学：http://pypi.hustunique.com/
+华中理工大学：[http://pypi.hustunique.com/](http://pypi.hustunique.com/)
 
-山东理工大学：http://pypi.sdutlinux.org/ 
+山东理工大学：[http://pypi.sdutlinux.org/](http://pypi.sdutlinux.org/)
 
-豆瓣：http://pypi.douban.com/simple/
+豆瓣：[http://pypi.douban.com/simple/](http://pypi.douban.com/simple/)
 
 *note：新版ubuntu要求使用https源，要注意。*
 
@@ -60,7 +60,7 @@ trusted-host = mirrors.aliyun.com
 
 以前Anaconda也可以使用国内的镜像，不过近期国内镜像陆续停止了对Anaconda的服务。
 
-> 参考：https://www.cnblogs.com/microman/p/6107879.html
+> 参考：[https://www.cnblogs.com/microman/p/6107879.html](https://www.cnblogs.com/microman/p/6107879.html)
 
 
 
